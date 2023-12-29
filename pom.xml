@@ -9,7 +9,7 @@
 
 	<name>Simple Icons Collection</name>
 	<artifactId>webjar-simple-icons</artifactId>
-	<version>9.19.0-SNAPSHOT</version>
+	<version>10.4.0-SNAPSHOT</version>
 	<description>Icon collection from Simple Icons.</description>
 
 	<build>
@@ -24,7 +24,7 @@
 							<rules>
 								<rule>file_exists README.md</rule>
 								<rule>file_contains LICENSE.md "CC0 1.0 Universal"</rule>
-								<rule>file_count dist 2750</rule>
+								<rule>file_count dist 2926</rule>
 							</rules>
 						</configuration>
 					</execution>
